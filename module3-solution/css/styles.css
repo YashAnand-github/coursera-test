@@ -1,0 +1,21 @@
+/**********HEADER************/
+
+#header-nav { background-color: #7FFFD4;
+              border-radius: 0;
+              border: 0; }
+.navbar-brand { font-weight: bold;
+                text-shadow: 1px 1px 1px #222;}
+/************collapsible menu*********/
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1.5px solid brown;}
+.text-center {background-color: #00FFFF;
+              padding-top: 0;
+              margin-top: 0;
+              border: 1px solid #DC143C	;
+              font-weight: bold;
+              font-size: 18px;}
+
+/************BODY********/
+
+h2,h3,h4 { height: 1000px; }
